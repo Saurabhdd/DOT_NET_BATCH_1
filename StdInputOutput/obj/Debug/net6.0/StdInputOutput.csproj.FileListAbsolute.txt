@@ -1,0 +1,15 @@
+D:\.NET\Batch-1-Practice\StdInputOutput\bin\Debug\net6.0\StdInputOutput.exe
+D:\.NET\Batch-1-Practice\StdInputOutput\bin\Debug\net6.0\StdInputOutput.deps.json
+D:\.NET\Batch-1-Practice\StdInputOutput\bin\Debug\net6.0\StdInputOutput.runtimeconfig.json
+D:\.NET\Batch-1-Practice\StdInputOutput\bin\Debug\net6.0\StdInputOutput.dll
+D:\.NET\Batch-1-Practice\StdInputOutput\bin\Debug\net6.0\StdInputOutput.pdb
+D:\.NET\Batch-1-Practice\StdInputOutput\obj\Debug\net6.0\StdInputOutput.csproj.AssemblyReference.cache
+D:\.NET\Batch-1-Practice\StdInputOutput\obj\Debug\net6.0\StdInputOutput.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Batch-1-Practice\StdInputOutput\obj\Debug\net6.0\StdInputOutput.AssemblyInfoInputs.cache
+D:\.NET\Batch-1-Practice\StdInputOutput\obj\Debug\net6.0\StdInputOutput.AssemblyInfo.cs
+D:\.NET\Batch-1-Practice\StdInputOutput\obj\Debug\net6.0\StdInputOutput.csproj.CoreCompileInputs.cache
+D:\.NET\Batch-1-Practice\StdInputOutput\obj\Debug\net6.0\StdInputOutput.dll
+D:\.NET\Batch-1-Practice\StdInputOutput\obj\Debug\net6.0\refint\StdInputOutput.dll
+D:\.NET\Batch-1-Practice\StdInputOutput\obj\Debug\net6.0\StdInputOutput.pdb
+D:\.NET\Batch-1-Practice\StdInputOutput\obj\Debug\net6.0\StdInputOutput.genruntimeconfig.cache
+D:\.NET\Batch-1-Practice\StdInputOutput\obj\Debug\net6.0\ref\StdInputOutput.dll

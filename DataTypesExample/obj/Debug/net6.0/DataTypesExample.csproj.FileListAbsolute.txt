@@ -1,0 +1,15 @@
+D:\.NET\Batch-1-Practice\DataTypesExample\bin\Debug\net6.0\DataTypesExample.exe
+D:\.NET\Batch-1-Practice\DataTypesExample\bin\Debug\net6.0\DataTypesExample.deps.json
+D:\.NET\Batch-1-Practice\DataTypesExample\bin\Debug\net6.0\DataTypesExample.runtimeconfig.json
+D:\.NET\Batch-1-Practice\DataTypesExample\bin\Debug\net6.0\DataTypesExample.dll
+D:\.NET\Batch-1-Practice\DataTypesExample\bin\Debug\net6.0\DataTypesExample.pdb
+D:\.NET\Batch-1-Practice\DataTypesExample\obj\Debug\net6.0\DataTypesExample.csproj.AssemblyReference.cache
+D:\.NET\Batch-1-Practice\DataTypesExample\obj\Debug\net6.0\DataTypesExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Batch-1-Practice\DataTypesExample\obj\Debug\net6.0\DataTypesExample.AssemblyInfoInputs.cache
+D:\.NET\Batch-1-Practice\DataTypesExample\obj\Debug\net6.0\DataTypesExample.AssemblyInfo.cs
+D:\.NET\Batch-1-Practice\DataTypesExample\obj\Debug\net6.0\DataTypesExample.csproj.CoreCompileInputs.cache
+D:\.NET\Batch-1-Practice\DataTypesExample\obj\Debug\net6.0\DataTypesExample.dll
+D:\.NET\Batch-1-Practice\DataTypesExample\obj\Debug\net6.0\refint\DataTypesExample.dll
+D:\.NET\Batch-1-Practice\DataTypesExample\obj\Debug\net6.0\DataTypesExample.pdb
+D:\.NET\Batch-1-Practice\DataTypesExample\obj\Debug\net6.0\DataTypesExample.genruntimeconfig.cache
+D:\.NET\Batch-1-Practice\DataTypesExample\obj\Debug\net6.0\ref\DataTypesExample.dll

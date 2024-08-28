@@ -1,0 +1,5 @@
+D:\.NET\Batch-1-Practice\TypeConversion\obj\Debug\net6.0\TypeConversion.csproj.AssemblyReference.cache
+D:\.NET\Batch-1-Practice\TypeConversion\obj\Debug\net6.0\TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Batch-1-Practice\TypeConversion\obj\Debug\net6.0\TypeConversion.AssemblyInfoInputs.cache
+D:\.NET\Batch-1-Practice\TypeConversion\obj\Debug\net6.0\TypeConversion.AssemblyInfo.cs
+D:\.NET\Batch-1-Practice\TypeConversion\obj\Debug\net6.0\TypeConversion.csproj.CoreCompileInputs.cache

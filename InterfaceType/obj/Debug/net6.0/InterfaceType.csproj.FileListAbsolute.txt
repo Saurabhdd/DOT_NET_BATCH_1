@@ -1,0 +1,15 @@
+D:\.NET\Batch-1-Practice\Practice\InterfaceType\obj\Debug\net6.0\InterfaceType.csproj.AssemblyReference.cache
+D:\.NET\Batch-1-Practice\Practice\InterfaceType\obj\Debug\net6.0\InterfaceType.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Batch-1-Practice\Practice\InterfaceType\obj\Debug\net6.0\InterfaceType.AssemblyInfoInputs.cache
+D:\.NET\Batch-1-Practice\Practice\InterfaceType\obj\Debug\net6.0\InterfaceType.AssemblyInfo.cs
+D:\.NET\Batch-1-Practice\Practice\InterfaceType\obj\Debug\net6.0\InterfaceType.csproj.CoreCompileInputs.cache
+D:\.NET\Batch-1-Practice\Practice\InterfaceType\bin\Debug\net6.0\InterfaceType.exe
+D:\.NET\Batch-1-Practice\Practice\InterfaceType\bin\Debug\net6.0\InterfaceType.deps.json
+D:\.NET\Batch-1-Practice\Practice\InterfaceType\bin\Debug\net6.0\InterfaceType.runtimeconfig.json
+D:\.NET\Batch-1-Practice\Practice\InterfaceType\bin\Debug\net6.0\InterfaceType.dll
+D:\.NET\Batch-1-Practice\Practice\InterfaceType\bin\Debug\net6.0\InterfaceType.pdb
+D:\.NET\Batch-1-Practice\Practice\InterfaceType\obj\Debug\net6.0\InterfaceType.dll
+D:\.NET\Batch-1-Practice\Practice\InterfaceType\obj\Debug\net6.0\refint\InterfaceType.dll
+D:\.NET\Batch-1-Practice\Practice\InterfaceType\obj\Debug\net6.0\InterfaceType.pdb
+D:\.NET\Batch-1-Practice\Practice\InterfaceType\obj\Debug\net6.0\InterfaceType.genruntimeconfig.cache
+D:\.NET\Batch-1-Practice\Practice\InterfaceType\obj\Debug\net6.0\ref\InterfaceType.dll

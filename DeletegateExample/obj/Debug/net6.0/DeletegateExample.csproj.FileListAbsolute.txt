@@ -1,0 +1,15 @@
+D:\.NET\Batch-1-Practice\DeletegateExample\obj\Debug\net6.0\DeletegateExample.csproj.AssemblyReference.cache
+D:\.NET\Batch-1-Practice\DeletegateExample\obj\Debug\net6.0\DeletegateExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Batch-1-Practice\DeletegateExample\obj\Debug\net6.0\DeletegateExample.AssemblyInfoInputs.cache
+D:\.NET\Batch-1-Practice\DeletegateExample\obj\Debug\net6.0\DeletegateExample.AssemblyInfo.cs
+D:\.NET\Batch-1-Practice\DeletegateExample\obj\Debug\net6.0\DeletegateExample.csproj.CoreCompileInputs.cache
+D:\.NET\Batch-1-Practice\DeletegateExample\bin\Debug\net6.0\DeletegateExample.exe
+D:\.NET\Batch-1-Practice\DeletegateExample\bin\Debug\net6.0\DeletegateExample.deps.json
+D:\.NET\Batch-1-Practice\DeletegateExample\bin\Debug\net6.0\DeletegateExample.runtimeconfig.json
+D:\.NET\Batch-1-Practice\DeletegateExample\bin\Debug\net6.0\DeletegateExample.dll
+D:\.NET\Batch-1-Practice\DeletegateExample\bin\Debug\net6.0\DeletegateExample.pdb
+D:\.NET\Batch-1-Practice\DeletegateExample\obj\Debug\net6.0\DeletegateExample.dll
+D:\.NET\Batch-1-Practice\DeletegateExample\obj\Debug\net6.0\refint\DeletegateExample.dll
+D:\.NET\Batch-1-Practice\DeletegateExample\obj\Debug\net6.0\DeletegateExample.pdb
+D:\.NET\Batch-1-Practice\DeletegateExample\obj\Debug\net6.0\DeletegateExample.genruntimeconfig.cache
+D:\.NET\Batch-1-Practice\DeletegateExample\obj\Debug\net6.0\ref\DeletegateExample.dll

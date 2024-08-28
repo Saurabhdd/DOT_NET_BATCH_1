@@ -1,0 +1,15 @@
+D:\.NET\Batch-1-Practice\ArrayExample\bin\Debug\net6.0\ArrayExample.exe
+D:\.NET\Batch-1-Practice\ArrayExample\bin\Debug\net6.0\ArrayExample.deps.json
+D:\.NET\Batch-1-Practice\ArrayExample\bin\Debug\net6.0\ArrayExample.runtimeconfig.json
+D:\.NET\Batch-1-Practice\ArrayExample\bin\Debug\net6.0\ArrayExample.dll
+D:\.NET\Batch-1-Practice\ArrayExample\bin\Debug\net6.0\ArrayExample.pdb
+D:\.NET\Batch-1-Practice\ArrayExample\obj\Debug\net6.0\ArrayExample.csproj.AssemblyReference.cache
+D:\.NET\Batch-1-Practice\ArrayExample\obj\Debug\net6.0\ArrayExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Batch-1-Practice\ArrayExample\obj\Debug\net6.0\ArrayExample.AssemblyInfoInputs.cache
+D:\.NET\Batch-1-Practice\ArrayExample\obj\Debug\net6.0\ArrayExample.AssemblyInfo.cs
+D:\.NET\Batch-1-Practice\ArrayExample\obj\Debug\net6.0\ArrayExample.csproj.CoreCompileInputs.cache
+D:\.NET\Batch-1-Practice\ArrayExample\obj\Debug\net6.0\ArrayExample.dll
+D:\.NET\Batch-1-Practice\ArrayExample\obj\Debug\net6.0\refint\ArrayExample.dll
+D:\.NET\Batch-1-Practice\ArrayExample\obj\Debug\net6.0\ArrayExample.pdb
+D:\.NET\Batch-1-Practice\ArrayExample\obj\Debug\net6.0\ArrayExample.genruntimeconfig.cache
+D:\.NET\Batch-1-Practice\ArrayExample\obj\Debug\net6.0\ref\ArrayExample.dll

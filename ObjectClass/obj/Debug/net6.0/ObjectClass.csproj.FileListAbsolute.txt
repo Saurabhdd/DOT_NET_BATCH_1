@@ -1,0 +1,15 @@
+D:\.NET\Batch-1-Practice\ObjectClass\obj\Debug\net6.0\ObjectClass.csproj.AssemblyReference.cache
+D:\.NET\Batch-1-Practice\ObjectClass\obj\Debug\net6.0\ObjectClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Batch-1-Practice\ObjectClass\obj\Debug\net6.0\ObjectClass.AssemblyInfoInputs.cache
+D:\.NET\Batch-1-Practice\ObjectClass\obj\Debug\net6.0\ObjectClass.AssemblyInfo.cs
+D:\.NET\Batch-1-Practice\ObjectClass\obj\Debug\net6.0\ObjectClass.csproj.CoreCompileInputs.cache
+D:\.NET\Batch-1-Practice\ObjectClass\bin\Debug\net6.0\ObjectClass.exe
+D:\.NET\Batch-1-Practice\ObjectClass\bin\Debug\net6.0\ObjectClass.deps.json
+D:\.NET\Batch-1-Practice\ObjectClass\bin\Debug\net6.0\ObjectClass.runtimeconfig.json
+D:\.NET\Batch-1-Practice\ObjectClass\bin\Debug\net6.0\ObjectClass.dll
+D:\.NET\Batch-1-Practice\ObjectClass\bin\Debug\net6.0\ObjectClass.pdb
+D:\.NET\Batch-1-Practice\ObjectClass\obj\Debug\net6.0\ObjectClass.dll
+D:\.NET\Batch-1-Practice\ObjectClass\obj\Debug\net6.0\refint\ObjectClass.dll
+D:\.NET\Batch-1-Practice\ObjectClass\obj\Debug\net6.0\ObjectClass.pdb
+D:\.NET\Batch-1-Practice\ObjectClass\obj\Debug\net6.0\ObjectClass.genruntimeconfig.cache
+D:\.NET\Batch-1-Practice\ObjectClass\obj\Debug\net6.0\ref\ObjectClass.dll

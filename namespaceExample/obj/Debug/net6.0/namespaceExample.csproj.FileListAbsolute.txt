@@ -1,0 +1,15 @@
+D:\.NET\Batch-1-Practice\namespaceExample\obj\Debug\net6.0\namespaceExample.csproj.AssemblyReference.cache
+D:\.NET\Batch-1-Practice\namespaceExample\obj\Debug\net6.0\namespaceExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Batch-1-Practice\namespaceExample\obj\Debug\net6.0\namespaceExample.AssemblyInfoInputs.cache
+D:\.NET\Batch-1-Practice\namespaceExample\obj\Debug\net6.0\namespaceExample.AssemblyInfo.cs
+D:\.NET\Batch-1-Practice\namespaceExample\obj\Debug\net6.0\namespaceExample.csproj.CoreCompileInputs.cache
+D:\.NET\Batch-1-Practice\namespaceExample\bin\Debug\net6.0\namespaceExample.exe
+D:\.NET\Batch-1-Practice\namespaceExample\bin\Debug\net6.0\namespaceExample.deps.json
+D:\.NET\Batch-1-Practice\namespaceExample\bin\Debug\net6.0\namespaceExample.runtimeconfig.json
+D:\.NET\Batch-1-Practice\namespaceExample\bin\Debug\net6.0\namespaceExample.dll
+D:\.NET\Batch-1-Practice\namespaceExample\bin\Debug\net6.0\namespaceExample.pdb
+D:\.NET\Batch-1-Practice\namespaceExample\obj\Debug\net6.0\namespaceExample.dll
+D:\.NET\Batch-1-Practice\namespaceExample\obj\Debug\net6.0\refint\namespaceExample.dll
+D:\.NET\Batch-1-Practice\namespaceExample\obj\Debug\net6.0\namespaceExample.pdb
+D:\.NET\Batch-1-Practice\namespaceExample\obj\Debug\net6.0\namespaceExample.genruntimeconfig.cache
+D:\.NET\Batch-1-Practice\namespaceExample\obj\Debug\net6.0\ref\namespaceExample.dll

@@ -1,0 +1,15 @@
+D:\.NET\Batch-1-Practice\structType\obj\Debug\net6.0\structType.csproj.AssemblyReference.cache
+D:\.NET\Batch-1-Practice\structType\obj\Debug\net6.0\structType.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Batch-1-Practice\structType\obj\Debug\net6.0\structType.AssemblyInfoInputs.cache
+D:\.NET\Batch-1-Practice\structType\obj\Debug\net6.0\structType.AssemblyInfo.cs
+D:\.NET\Batch-1-Practice\structType\obj\Debug\net6.0\structType.csproj.CoreCompileInputs.cache
+D:\.NET\Batch-1-Practice\structType\bin\Debug\net6.0\structType.exe
+D:\.NET\Batch-1-Practice\structType\bin\Debug\net6.0\structType.deps.json
+D:\.NET\Batch-1-Practice\structType\bin\Debug\net6.0\structType.runtimeconfig.json
+D:\.NET\Batch-1-Practice\structType\bin\Debug\net6.0\structType.dll
+D:\.NET\Batch-1-Practice\structType\bin\Debug\net6.0\structType.pdb
+D:\.NET\Batch-1-Practice\structType\obj\Debug\net6.0\structType.dll
+D:\.NET\Batch-1-Practice\structType\obj\Debug\net6.0\refint\structType.dll
+D:\.NET\Batch-1-Practice\structType\obj\Debug\net6.0\structType.pdb
+D:\.NET\Batch-1-Practice\structType\obj\Debug\net6.0\structType.genruntimeconfig.cache
+D:\.NET\Batch-1-Practice\structType\obj\Debug\net6.0\ref\structType.dll

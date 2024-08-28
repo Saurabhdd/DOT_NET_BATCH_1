@@ -1,0 +1,15 @@
+D:\.NET\Batch-1-Practice\Practice\ClassType\bin\Debug\net6.0\ClassType.exe
+D:\.NET\Batch-1-Practice\Practice\ClassType\bin\Debug\net6.0\ClassType.deps.json
+D:\.NET\Batch-1-Practice\Practice\ClassType\bin\Debug\net6.0\ClassType.runtimeconfig.json
+D:\.NET\Batch-1-Practice\Practice\ClassType\bin\Debug\net6.0\ClassType.dll
+D:\.NET\Batch-1-Practice\Practice\ClassType\bin\Debug\net6.0\ClassType.pdb
+D:\.NET\Batch-1-Practice\Practice\ClassType\obj\Debug\net6.0\ClassType.csproj.AssemblyReference.cache
+D:\.NET\Batch-1-Practice\Practice\ClassType\obj\Debug\net6.0\ClassType.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Batch-1-Practice\Practice\ClassType\obj\Debug\net6.0\ClassType.AssemblyInfoInputs.cache
+D:\.NET\Batch-1-Practice\Practice\ClassType\obj\Debug\net6.0\ClassType.AssemblyInfo.cs
+D:\.NET\Batch-1-Practice\Practice\ClassType\obj\Debug\net6.0\ClassType.csproj.CoreCompileInputs.cache
+D:\.NET\Batch-1-Practice\Practice\ClassType\obj\Debug\net6.0\ClassType.dll
+D:\.NET\Batch-1-Practice\Practice\ClassType\obj\Debug\net6.0\refint\ClassType.dll
+D:\.NET\Batch-1-Practice\Practice\ClassType\obj\Debug\net6.0\ClassType.pdb
+D:\.NET\Batch-1-Practice\Practice\ClassType\obj\Debug\net6.0\ClassType.genruntimeconfig.cache
+D:\.NET\Batch-1-Practice\Practice\ClassType\obj\Debug\net6.0\ref\ClassType.dll
