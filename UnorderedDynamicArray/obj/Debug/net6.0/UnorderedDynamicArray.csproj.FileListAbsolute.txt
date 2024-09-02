@@ -1,0 +1,15 @@
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\UnorderedDynamicArray\bin\Debug\net6.0\UnorderedDynamicArray.exe
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\UnorderedDynamicArray\bin\Debug\net6.0\UnorderedDynamicArray.deps.json
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\UnorderedDynamicArray\bin\Debug\net6.0\UnorderedDynamicArray.runtimeconfig.json
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\UnorderedDynamicArray\bin\Debug\net6.0\UnorderedDynamicArray.dll
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\UnorderedDynamicArray\bin\Debug\net6.0\UnorderedDynamicArray.pdb
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\UnorderedDynamicArray\obj\Debug\net6.0\UnorderedDynamicArray.csproj.AssemblyReference.cache
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\UnorderedDynamicArray\obj\Debug\net6.0\UnorderedDynamicArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\UnorderedDynamicArray\obj\Debug\net6.0\UnorderedDynamicArray.AssemblyInfoInputs.cache
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\UnorderedDynamicArray\obj\Debug\net6.0\UnorderedDynamicArray.AssemblyInfo.cs
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\UnorderedDynamicArray\obj\Debug\net6.0\UnorderedDynamicArray.csproj.CoreCompileInputs.cache
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\UnorderedDynamicArray\obj\Debug\net6.0\UnorderedDynamicArray.dll
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\UnorderedDynamicArray\obj\Debug\net6.0\refint\UnorderedDynamicArray.dll
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\UnorderedDynamicArray\obj\Debug\net6.0\UnorderedDynamicArray.pdb
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\UnorderedDynamicArray\obj\Debug\net6.0\UnorderedDynamicArray.genruntimeconfig.cache
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\UnorderedDynamicArray\obj\Debug\net6.0\ref\UnorderedDynamicArray.dll
