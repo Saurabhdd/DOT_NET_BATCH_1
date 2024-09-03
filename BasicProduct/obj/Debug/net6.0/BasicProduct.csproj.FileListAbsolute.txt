@@ -1,0 +1,15 @@
+D:\.NET\practice\BasicProduct\bin\Debug\net6.0\BasicProduct.exe
+D:\.NET\practice\BasicProduct\bin\Debug\net6.0\BasicProduct.deps.json
+D:\.NET\practice\BasicProduct\bin\Debug\net6.0\BasicProduct.runtimeconfig.json
+D:\.NET\practice\BasicProduct\bin\Debug\net6.0\BasicProduct.dll
+D:\.NET\practice\BasicProduct\bin\Debug\net6.0\BasicProduct.pdb
+D:\.NET\practice\BasicProduct\obj\Debug\net6.0\BasicProduct.csproj.AssemblyReference.cache
+D:\.NET\practice\BasicProduct\obj\Debug\net6.0\BasicProduct.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\practice\BasicProduct\obj\Debug\net6.0\BasicProduct.AssemblyInfoInputs.cache
+D:\.NET\practice\BasicProduct\obj\Debug\net6.0\BasicProduct.AssemblyInfo.cs
+D:\.NET\practice\BasicProduct\obj\Debug\net6.0\BasicProduct.csproj.CoreCompileInputs.cache
+D:\.NET\practice\BasicProduct\obj\Debug\net6.0\BasicProduct.dll
+D:\.NET\practice\BasicProduct\obj\Debug\net6.0\refint\BasicProduct.dll
+D:\.NET\practice\BasicProduct\obj\Debug\net6.0\BasicProduct.pdb
+D:\.NET\practice\BasicProduct\obj\Debug\net6.0\BasicProduct.genruntimeconfig.cache
+D:\.NET\practice\BasicProduct\obj\Debug\net6.0\ref\BasicProduct.dll
