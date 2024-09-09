@@ -28,11 +28,11 @@ namespace DataStructure
         public void InsertAtPos(int data, int pos)
         {
             Node newNode = new Node(data);
-            int counter = 0;
+            int counter = 1;
             Node tempNode;
 
             tempNode = headNode.Next;
-            while(tempNode != headNode && counter <= pos)
+            while(tempNode != headNode && counter < pos)
             {
                 counter += 1;
                 tempNode = tempNode.Next;

@@ -15,8 +15,10 @@ namespace DataStructure
 
             list.InsertAtEnd(40);
             list.PrintList();
+
+            list.InsertAtPos(50, 3);
             
-            list.RemoveAtBegin();
+            //list.RemoveAtBegin();
             list.PrintList();
         }
     }
