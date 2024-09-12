@@ -1,0 +1,15 @@
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\ListWithAbstractClass\bin\Debug\net6.0\ListWithAbstractClass.exe
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\ListWithAbstractClass\bin\Debug\net6.0\ListWithAbstractClass.deps.json
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\ListWithAbstractClass\bin\Debug\net6.0\ListWithAbstractClass.runtimeconfig.json
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\ListWithAbstractClass\bin\Debug\net6.0\ListWithAbstractClass.dll
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\ListWithAbstractClass\bin\Debug\net6.0\ListWithAbstractClass.pdb
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\ListWithAbstractClass\obj\Debug\net6.0\ListWithAbstractClass.csproj.AssemblyReference.cache
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\ListWithAbstractClass\obj\Debug\net6.0\ListWithAbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\ListWithAbstractClass\obj\Debug\net6.0\ListWithAbstractClass.AssemblyInfoInputs.cache
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\ListWithAbstractClass\obj\Debug\net6.0\ListWithAbstractClass.AssemblyInfo.cs
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\ListWithAbstractClass\obj\Debug\net6.0\ListWithAbstractClass.csproj.CoreCompileInputs.cache
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\ListWithAbstractClass\obj\Debug\net6.0\ListWithAbstractClass.dll
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\ListWithAbstractClass\obj\Debug\net6.0\refint\ListWithAbstractClass.dll
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\ListWithAbstractClass\obj\Debug\net6.0\ListWithAbstractClass.pdb
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\ListWithAbstractClass\obj\Debug\net6.0\ListWithAbstractClass.genruntimeconfig.cache
+D:\.NET\Batch-1-Practice\OneDrive\DOT_NET_BATCH_1\ListWithAbstractClass\obj\Debug\net6.0\ref\ListWithAbstractClass.dll
